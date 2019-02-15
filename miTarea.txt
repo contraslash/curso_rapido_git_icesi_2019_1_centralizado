@@ -1,0 +1,1 @@
+function(name){var nam= sunombre+name;return nam}
